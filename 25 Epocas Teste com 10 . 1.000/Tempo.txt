@@ -1,4 +1,0 @@
-Gerar o arquivo: 1m 14s
-
-
-Treinar a rede: 0m 48s
