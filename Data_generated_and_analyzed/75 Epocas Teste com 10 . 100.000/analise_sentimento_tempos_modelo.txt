@@ -1,0 +1,447 @@
+1
+00:00:00,000 --> 00:00:10,000
+Aplicação do finkaloud às navegação em campo agora sincronizando os dois equipamentos
+[neutro]
+2
+00:00:15,000 --> 00:00:20,000
+Émais ou menos isso tu botou a gravata beleza maravilha
+[neutro]
+3
+00:00:20,000 --> 00:00:23,000
+Tu quer botar no teu bolso fica perto fia tu que vai falar mais
+[bom]
+4
+00:00:23,000 --> 00:00:25,000
+Você quer o vídeo ou o áudio pode ser o áudio
+[neutro]
+5
+00:00:25,000 --> 00:00:27,000
+Eu estou gravando o vídeo
+[ruim]
+6
+00:00:31,000 --> 00:00:35,000
+Então eu vou interferir o mínimo possível a principal meta é o finkaloud
+[ruim]
+7
+00:00:35,000 --> 00:00:44,000
+Ea tarefa espacial é agora a gente fazer a rota do ponto até o ponto usando o fpr campus map
+[bom]
+8
+00:00:44,000 --> 00:00:52,000
+Tu vai navegar nele e daí tu vai de novo descrever os elementos que estão no campo e a distância relativa estimada entre eles
+[ruim]
+9
+00:00:52,000 --> 00:00:56,000
+Epor que tu usa eles para te orientar
+[bom]
+10
+00:00:56,000 --> 00:01:03,000
+Agente vai do ponto até o ponto o caminho que tu quiser fazer
+[bom]
+11
+00:01:03,000 --> 00:01:13,000
+Eu vou começar aqui por esse mapa analisando vou aproximar um pouco mais aqui só para eu saber como eu começo
+[neutro]
+12
+00:01:14,000 --> 00:01:25,000
+Mas aqui está me dando um caminho que eu acho que é esse aqui reto sim até em direção à engenharia de processos da ufpl
+[neutro]
+13
+00:01:25,000 --> 00:01:30,000
+Então eu vou mais ou menos por aqui vou pegar um atalho
+[neutro]
+14
+00:01:31,000 --> 00:01:40,000
+Aí aqui no mapa ele mostra que tem uma pequena curva que a gente vai ter que fazer
+[ruim]
+15
+00:01:40,000 --> 00:01:45,000
+Aí vai ser bem rápido para chegar na próxima rua
+[bom]
+16
+00:01:50,000 --> 00:01:54,000
+Aí depois eu tenho duas opções de caminho para ir
+[neutro]
+17
+00:01:54,000 --> 00:02:03,000
+Ou eu posso ir praticamente reto em direção ao programa de da ufpl mas seria engenharia de processos
+[neutro]
+18
+00:02:03,000 --> 00:02:10,000
+Ou eu vou pela direita pelo lado da rua elétrica eu vou pela direita mesmo
+[ruim]
+19
+00:02:10,000 --> 00:02:17,000
+Que é onde eu tenho um pouco mais de noção e parece ser mais próximo
+[neutro]
+20
+00:02:24,000 --> 00:02:34,000
+Eu gostaria que todos os textos estivessem disponíveis para leitura
+[bom]
+21
+00:02:34,000 --> 00:02:42,000
+Para saber o nome dos prédios onde eu estou mas como não estão disponíveis estão parcialmente robertos
+[neutro]
+22
+00:02:54,000 --> 00:03:01,000
+Eu espero não ficar perdido aqui sem a minha localização em tempo real
+[ruim]
+23
+00:03:07,000 --> 00:03:08,000
+Agente pode ir no meio da rua
+[neutro]
+24
+00:03:08,000 --> 00:03:10,000
+Vamos lá onde é que tu quiser
+[bom]
+25
+00:03:10,000 --> 00:03:11,000
+Vamos lá no centro
+[bom]
+26
+00:03:11,000 --> 00:03:13,000
+Tu que coordena a nossa rota
+[ruim]
+27
+00:03:14,000 --> 00:03:17,000
+Estou próximo da esquina
+[neutro]
+28
+00:03:19,000 --> 00:03:25,000
+Perto da rua elétrica com a coordenação do curso de engenharia de qualquer coisa
+[ruim]
+29
+00:03:26,000 --> 00:03:31,000
+Estou perto dos prédios amarelos das sações amarelas
+[neutro]
+30
+00:03:31,000 --> 00:03:33,000
+Vou virar para a esquerda
+[ruim]
+31
+00:03:33,000 --> 00:03:43,000
+Agente está próximo da rotatória
+[neutro]
+32
+00:03:43,000 --> 00:03:54,000
+Pelo mapa eu não entendo o que é uma rotatória mas visualmente analisando o cenário acho que estou perto da rotatória
+[neutro]
+33
+00:04:03,000 --> 00:04:07,000
+Aqui é o segundo estou entre o primeiro e o segundo prédio
+[bom]
+34
+00:04:07,000 --> 00:04:09,000
+Estou chegando ao segundo prédio
+[ruim]
+35
+00:04:09,000 --> 00:04:17,000
+Eu analisando o local dos prédios é mais fácil depois para entender onde eu estou no mapa
+[bom]
+36
+00:04:17,000 --> 00:04:21,000
+Agora saí do mapa para entender onde eu estou eu não consigo
+[ruim]
+37
+00:04:22,000 --> 00:04:31,000
+Aqui no meu cenário tem essa usina esse piloto uma faixa muito grande
+[bom]
+38
+00:04:36,000 --> 00:04:39,000
+Tem escrito piloto aqui no mapa
+[ruim]
+39
+00:04:43,000 --> 00:04:45,000
+Engenharia química
+[bom]
+40
+00:04:51,000 --> 00:05:07,000
+Estou próximo de onde deveria ser uma sala
+[neutro]
+41
+00:05:07,000 --> 00:05:11,000
+Estou próximo de onde deveria ser uma sala
+[neutro]
+42
+00:05:11,000 --> 00:05:13,000
+Poxa
+[bom]
+43
+00:05:18,000 --> 00:05:21,000
+Cheguei perto das ruas curvas
+[ruim]
+44
+00:05:29,000 --> 00:05:31,000
+Amigo não sei onde é o mapa
+[ruim]
+45
+00:05:31,000 --> 00:05:36,000
+Não vou ver nesse lugar não se a gente não chegar em lugar nenhum não é confundido
+[ruim]
+46
+00:05:36,000 --> 00:05:40,000
+Isso vai tentando te orientar e usar o mapa se não eu não vou conseguir está tudo bem
+[ruim]
+47
+00:05:40,000 --> 00:05:43,000
+Éum processo é importante a gente avaliar
+[bom]
+48
+00:05:43,000 --> 00:05:50,000
+Para ficar perdido com o mapa esse prédio parece bem complexo
+[ruim]
+49
+00:05:50,000 --> 00:05:57,000
+Já dá para ver o prédio para onde eu tenho que ir o departamento que eu tenho que ir
+[bom]
+50
+00:05:57,000 --> 00:06:01,000
+Pelo mapa eu já acho ele complexo olhando ele ainda me dá mais medo
+[ruim]
+51
+00:06:01,000 --> 00:06:18,000
+Pelo mapa eu iria pela esquerda para não precisar entrar no prédio de primeira
+[ruim]
+52
+00:06:18,000 --> 00:06:24,000
+Mas olhando aqui onde estou a entrada principal fica bem na minha frente
+[ruim]
+53
+00:06:24,000 --> 00:06:32,000
+Eu queria ir aqui próximo dessa sala verde que tem aqui no mapa
+[neutro]
+54
+00:06:32,000 --> 00:06:40,000
+Então eu acho que a entrada vai ser por aqui e depois a gente vai entrar no prédio
+[ruim]
+55
+00:06:40,000 --> 00:06:44,000
+Não vou pela rua lateral como eu estava achando que iria
+[ruim]
+56
+00:06:44,000 --> 00:06:46,000
+Então vamos lá
+[bom]
+57
+00:06:54,000 --> 00:07:01,000
+Aqui está montando no mapa que está a malação neste
+[neutro]
+58
+00:07:01,000 --> 00:07:08,000
+Acabei de ver a ela e já fiquei sabendo recentemente que essa urbana é a única lanchonete da cidade
+[neutro]
+59
+00:07:08,000 --> 00:07:14,000
+Então vamos lá tomar um café
+[bom]
+60
+00:07:25,000 --> 00:07:29,000
+Eu não sou muito fã desses mapas coloridos não
+[ruim]
+61
+00:07:29,000 --> 00:07:34,000
+Essa sala cada um dá uma cor eu nunca entendo o que quer dizer
+[ruim]
+62
+00:07:34,000 --> 00:07:40,000
+Então estou chegando próximo da entrada do prédio eu acho
+[ruim]
+63
+00:07:40,000 --> 00:07:51,000
+Eaqui eu vou ter que analisar os corredores que seria o rosa claro
+[neutro]
+64
+00:07:54,000 --> 00:08:00,000
+Então vou ter que ir para a esquerda ou para a direita quando faz um quadrado
+[ruim]
+65
+00:08:00,000 --> 00:08:09,000
+Edepois lá na frente tem dois corredores um para a direita esse aqui e um para a esquerda
+[ruim]
+66
+00:08:09,000 --> 00:08:11,000
+Então vou ter que ir para a esquerda
+[ruim]
+67
+00:08:11,000 --> 00:08:17,000
+Por causa disso quando entrar no prédio vou ter que ir para a esquerda a primeira vez
+[ruim]
+68
+00:08:18,000 --> 00:08:20,000
+Depois meio que reto
+[bom]
+69
+00:08:20,000 --> 00:08:26,000
+Éisso eu não estou vendo como fazer isso aqui
+[ruim]
+70
+00:08:47,000 --> 00:09:03,000
+Oprédio é um conector que liga dois prédios mas pelo mapa eu não consegui ver
+[neutro]
+71
+00:09:03,000 --> 00:09:10,000
+Eu acho que eu estou aqui
+[ruim]
+72
+00:09:17,000 --> 00:09:25,000
+Aqui estão dois corredores meio que um prédio onde faz sentido
+[ruim]
+73
+00:09:25,000 --> 00:09:29,000
+Vou pegar o meu encargo aqui
+[neutro]
+74
+00:09:29,000 --> 00:09:35,000
+Aqui está um corredor que eu acho que é esse primeiro aqui
+[ruim]
+75
+00:09:35,000 --> 00:09:39,000
+Se eu tiver certo não vou ter que ir para o próximo
+[ruim]
+76
+00:09:39,000 --> 00:09:49,000
+Isso é justamente que eu estou aqui no meio desses dois aqui
+[neutro]
+77
+00:09:49,000 --> 00:09:54,000
+Esse negócio meio roxo com amarelo aqui seria onde eu estou
+[bom]
+78
+00:09:54,000 --> 00:09:58,000
+Eu acho que está no meio entre dois prédios
+[bom]
+79
+00:10:04,000 --> 00:10:06,000
+Grande aqui né
+[ruim]
+80
+00:10:06,000 --> 00:10:08,000
+Ébem grande esse prédio
+[bom]
+81
+00:10:08,000 --> 00:10:11,000
+Vou ter que virar para a direita é um local tipo aqui
+[ruim]
+82
+00:10:11,000 --> 00:10:18,000
+Aqui são dois corredores dentro do mesmo corredor
+[bom]
+83
+00:10:18,000 --> 00:10:24,000
+Então se eu me dar a direita porque o meu pringue está mais para a direita aqui no mapa
+[ruim]
+84
+00:10:24,000 --> 00:10:28,000
+Vai ser lá no prédio a quarta sala
+[ruim]
+85
+00:10:28,000 --> 00:10:33,000
+Porém aqui tem quinhentas salas que eu já estou vendo
+[ruim]
+86
+00:10:33,000 --> 00:10:38,000
+Émas aqui tudo está certo
+[ruim]
+87
+00:10:38,000 --> 00:10:40,000
+Acho que tinha um número da sala não tinha
+[ruim]
+88
+00:10:40,000 --> 00:10:43,000
+São dois tinha que ir
+[bom]
+89
+00:10:43,000 --> 00:10:45,000
+Eu acho que era
+[ruim]
+90
+00:10:50,000 --> 00:10:55,000
+Exatamente ali no final tem um símbolo de final de corredor
+[bom]
+91
+00:10:55,000 --> 00:11:03,000
+Esses quadradinhos aqui são os esqueletos dos meus parentes
+[ruim]
+92
+00:11:08,000 --> 00:11:11,000
+Eu acho que chegou acho que é por aqui
+[bom]
+93
+00:11:11,000 --> 00:11:17,000
+Mas só que eu não sei qual é o andar então não dá para saber o andar
+[ruim]
+94
+00:11:17,000 --> 00:11:19,000
+Pelo mapa ou por aqui
+[ruim]
+95
+00:11:19,000 --> 00:11:22,000
+Mas é aqui mesmo só que no de baixo
+[neutro]
+96
+00:11:22,000 --> 00:11:24,000
+Éno térreo
+[bom]
+97
+00:11:24,000 --> 00:11:27,000
+Tem que ir para o térreo
+[bom]
+98
+00:11:27,000 --> 00:11:29,000
+Pois é
+[bom]
+99
+00:11:29,000 --> 00:11:31,000
+Você sabia que era aqui
+[ruim]
+100
+00:11:31,000 --> 00:11:33,000
+Eu achei que era aqui
+[ruim]
+101
+00:11:33,000 --> 00:11:35,000
+Mas é no térreo
+[neutro]
+102
+00:11:35,000 --> 00:11:38,000
+Só que não tem como chegar no térreo sem desses escados
+[neutro]
+103
+00:11:38,000 --> 00:11:41,000
+Aqui seria o térreo praticamente
+[bom]
+104
+00:11:41,000 --> 00:11:45,000
+Chegamos no eu acho que eu cheguei no destino franco
+[ruim]
+105
+00:11:45,000 --> 00:11:49,000
+Dá para eu conferir se ali na frente tiver um outro prédio
+[ruim]
+106
+00:11:49,000 --> 00:11:51,000
+Bem sim
+[neutro]
+107
+00:11:51,000 --> 00:11:53,000
+Certeza
+[bom]
+108
+00:11:53,000 --> 00:11:57,000
+Éisso aqui tem a passarela que é exatamente onde a gente está
+[ruim]
+109
+00:11:57,000 --> 00:11:59,000
+Eu acho que finalizei
+[bom]
+110
+00:11:59,000 --> 00:12:02,000
+Então vamos finalizar a gravação do finkeloud
+[bom]
+111
+00:12:02,000 --> 00:12:06,000
+Evamos completar o nasa tlx e o mapa com o niti
+[bom]
+112
+00:12:19,000 --> 00:12:21,000
+Obrigado por assistir[bom]
